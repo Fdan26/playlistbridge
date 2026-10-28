@@ -1,0 +1,18 @@
+# Personal playlist exports (contain your Spotify user ID) and progress backups
+my_playlists/
+*.csv
+*.tsv
+playlist-bridge-*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
